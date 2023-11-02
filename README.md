@@ -1,1 +1,1 @@
-# CS760_ML
+# CS760 Machine Learning
